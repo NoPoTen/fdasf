@@ -5,3 +5,4 @@ git has mutiable index called stage
 git tracks changes
 add two
 add four
+idoit
