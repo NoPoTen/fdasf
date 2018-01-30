@@ -4,4 +4,4 @@ git is easy to use
 git has mutiable index called stage
 git tracks changes
 add two
-add three
+add four
