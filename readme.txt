@@ -11,7 +11,13 @@ add two
 
 handdle iss-1
 test stash
+<<<<<<< HEAD
 dev
 
 hahaahahhaahah
 test push
+master
+
+second update
+frist update
+
