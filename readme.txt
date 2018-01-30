@@ -11,3 +11,4 @@ add two
 
 handdle iss-1
 test stash
+test push
