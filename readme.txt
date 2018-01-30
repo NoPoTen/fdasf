@@ -5,3 +5,4 @@ git has mutiable index called stage
 branch dev
 
 remove one and add another
+creating a new branch id quick and simple
